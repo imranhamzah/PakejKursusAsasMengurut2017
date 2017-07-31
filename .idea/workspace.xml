@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a52f7b1e-2747-471b-aa6e-36d1dd5b0850" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/material.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/package_list.blade.php" afterPath="$PROJECT_DIR$/resources/views/package_list.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/student_registration.blade.php" afterPath="$PROJECT_DIR$/resources/views/student_registration.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/success_page.blade.php" afterPath="$PROJECT_DIR$/resources/views/success_page.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/material.css" afterPath="$PROJECT_DIR$/public/assets/css/material.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="student_registration.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="student_registration.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/student_registration.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="120" column="125" lean-forward="false" selection-start-line="120" selection-start-column="125" selection-end-line="120" selection-end-column="125" />
+            <state relative-caret-position="459">
+              <caret line="129" column="34" lean-forward="true" selection-start-line="129" selection-start-column="34" selection-end-line="129" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -104,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="material.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="material.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/assets/css/material.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="6628" column="17" lean-forward="false" selection-start-line="6628" selection-start-column="17" selection-end-line="6628" selection-end-column="17" />
+            <state relative-caret-position="321">
+              <caret line="6631" column="14" lean-forward="false" selection-start-line="6631" selection-start-column="14" selection-end-line="6631" selection-end-column="14" />
               <folding>
                 <element signature="e#60204#61905#2" expanded="true" />
                 <element signature="e#61917#63618#2" expanded="true" />
@@ -217,8 +213,8 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/StudentRegistration.php" />
         <option value="$PROJECT_DIR$/resources/views/package_list.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/success_page.blade.php" />
-        <option value="$PROJECT_DIR$/public/assets/css/material.css" />
         <option value="$PROJECT_DIR$/resources/views/student_registration.blade.php" />
+        <option value="$PROJECT_DIR$/public/assets/css/material.css" />
       </list>
     </option>
   </component>
@@ -444,7 +440,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="material.css&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material.css&#10;materia&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;material&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;Handler&#9;null&#9;null&#10;routes&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;route&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;routes.php&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;database.php&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/config/database.php&#10;style.cs&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/styles.css&#10;material-da&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;composer.&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/composer.json&#10;routesphp&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php" />
+    <property name="SearchEverywhereHistoryKey" value="materi&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material.css&#10;material.css&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material.css&#10;materia&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;material&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;Handler&#9;null&#9;null&#10;routes&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;route&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;routes.php&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;database.php&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/config/database.php&#10;style.cs&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/styles.css&#10;material-da&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;composer.&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/composer.json&#10;routesphp&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php" />
     <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -551,12 +547,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501379279368</updated>
-      <workItem from="1501379281666" duration="30169000" />
+      <workItem from="1501379281666" duration="30740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30169000" />
+    <option name="totallyTimeSpent" value="30740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -813,25 +809,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/css/material.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="6628" column="17" lean-forward="false" selection-start-line="6628" selection-start-column="17" selection-end-line="6628" selection-end-column="17" />
-          <folding>
-            <element signature="e#60204#61905#2" expanded="true" />
-            <element signature="e#61917#63618#2" expanded="true" />
-            <element signature="e#63850#64747#1" expanded="true" />
-            <element signature="e#64925#65822#1" expanded="true" />
-            <element signature="e#92147#92748#2" expanded="true" />
-            <element signature="e#92764#93365#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/student_registration.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="120" column="125" lean-forward="false" selection-start-line="120" selection-start-column="125" selection-end-line="120" selection-end-column="125" />
+        <state relative-caret-position="459">
+          <caret line="129" column="34" lean-forward="true" selection-start-line="129" selection-start-column="34" selection-end-line="129" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -849,6 +830,21 @@
             <marker date="1501469281308" expanded="true" signature="7194:7214" ph="..." />
             <marker date="1501469281308" expanded="true" signature="7324:7332" ph="..." />
             <marker date="1501469281308" expanded="true" signature="7622:7670" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/css/material.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="6631" column="14" lean-forward="false" selection-start-line="6631" selection-start-column="14" selection-end-line="6631" selection-end-column="14" />
+          <folding>
+            <element signature="e#60204#61905#2" expanded="true" />
+            <element signature="e#61917#63618#2" expanded="true" />
+            <element signature="e#63850#64747#1" expanded="true" />
+            <element signature="e#64925#65822#1" expanded="true" />
+            <element signature="e#92147#92748#2" expanded="true" />
+            <element signature="e#92764#93365#2" expanded="true" />
           </folding>
         </state>
       </provider>
