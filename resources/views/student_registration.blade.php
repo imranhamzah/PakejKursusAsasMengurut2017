@@ -8,7 +8,7 @@
     <title>Pendaftaran Kursus Asas Mengurut 2017</title>
 
     <!-- Page styles -->
-    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.min.css">
+    <link rel="stylesheet" href="{!! asset('assets/css/material.css') !!}">
     <link rel="stylesheet" href="{!! asset('assets/css/styles.css') !!}">
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -97,28 +97,30 @@
                         </div>
                         <div>
                             <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                                <input class="mdl-textfield__input" type="text" value="{!! old('fullname') !!}" name="fullname">
+                                <input class="mdl-textfield__input" type="text" value="{!! old('fullname') !!}" name="fullname" pattern="^.{4,}$">
                                 <label class="mdl-textfield__label" for="fullname">Nama penuh</label>
-                                <span class="mdl-textfield__error">{!! $errors->first('fullname') !!}</span>
+                                <span class="mdl-textfield__error">Sila masukkan nama anda yang sebenar.</span>
                             </div>
                         </div>
                         <div>
                             <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                                <input class="mdl-textfield__input" name="mobile_number" value="{!! old('mobile_number') !!}" type="text" pattern="-?[0-9]*(\.[0-9]+)?">
+                                <input class="mdl-textfield__input" name="mobile_number" value="{!! old('mobile_number') !!}" type="text" pattern="^(\+?6?01)[0-46-9]-*[0-9]{7,8}$">
                                 <label class="mdl-textfield__label" for="mobile_number">Nombor Telefon Bimbit</label>
-                                <span class="mdl-textfield__error">Ini bukan nombor telefon yang sah!</span>
+                                <span class="mdl-textfield__error">Sila masukkan nombor telefon yang sah. Cth: +60143635185</span>
                             </div>
                         </div>
                         <div>
                             <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                                <input class="mdl-textfield__input" type="text" value="{!! old('no_ic')  !!}" pattern="-?[0-9]*(\.[0-9]+)?" name="no_ic">
-                                <label class="mdl-textfield__label" for="sample4">Nombor Kad Pengenalan (I/C)</label>
+                                <input class="mdl-textfield__input" type="text" value="{!! old('no_ic')  !!}" pattern="^\d{6}-\d{2}-\d{4}$" name="no_ic">
+                                <label class="mdl-textfield__label" for="no_ic">Nombor Kad Pengenalan (I/C)</label>
+                                <span class="mdl-textfield__error">Sila masukkan nombor IC yang sah. Cth: 801103-01-5484</span>
                             </div>
                         </div>
                         <div>
                             <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                                <input class="mdl-textfield__input" type="text" value="{!! old('address') !!}" name="address">
+                                <input class="mdl-textfield__input" type="text" value="{!! old('address') !!}" pattern="^.{15,}$" name="address">
                                 <label class="mdl-textfield__label" for="address">Alamat rumah</label>
+                                <span class="mdl-textfield__error">Sila masukkan alamat yang tepat untuk rujukan kami.</span>
                             </div>
                         </div>
                         <div>

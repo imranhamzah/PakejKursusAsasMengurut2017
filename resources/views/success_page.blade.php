@@ -8,7 +8,7 @@
     <title>Pendaftaran Kursus Berjaya!</title>
 
     <!-- Page styles -->
-    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.min.css">
+    <link rel="stylesheet" href="{!! asset('assets/css/material.css') !!}">
     <link rel="stylesheet" href="{!! asset('assets/css/styles.css') !!}">
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
