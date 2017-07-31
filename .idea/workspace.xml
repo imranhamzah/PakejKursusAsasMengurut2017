@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a52f7b1e-2747-471b-aa6e-36d1dd5b0850" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/material.css" afterPath="$PROJECT_DIR$/public/assets/css/material.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Handler.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Handler.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="408">
+              <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -100,7 +101,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="material.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="material.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/assets/css/material.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="321">
@@ -215,6 +216,7 @@
         <option value="$PROJECT_DIR$/resources/views/success_page.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/student_registration.blade.php" />
         <option value="$PROJECT_DIR$/public/assets/css/material.css" />
+        <option value="$PROJECT_DIR$/app/Exceptions/Handler.php" />
       </list>
     </option>
   </component>
@@ -440,7 +442,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="materi&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material.css&#10;material.css&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material.css&#10;materia&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;material&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;Handler&#9;null&#9;null&#10;routes&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;route&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;routes.php&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;database.php&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/config/database.php&#10;style.cs&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/styles.css&#10;material-da&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;composer.&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/composer.json&#10;routesphp&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php" />
+    <property name="SearchEverywhereHistoryKey" value="Hand&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Exceptions/Handler.php&#10;materi&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material.css&#10;material.css&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material.css&#10;materia&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;material&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;Handler&#9;null&#9;null&#10;routes&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;route&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;routes.php&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php&#10;database.php&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/config/database.php&#10;style.cs&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/styles.css&#10;material-da&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/public/assets/css/material-datetime-picker.css&#10;composer.&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/composer.json&#10;routesphp&#9;FILE&#9;file://D:/DayangkuSriRichLegacy/app/Http/routes.php" />
     <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -547,12 +549,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501379279368</updated>
-      <workItem from="1501379281666" duration="30740000" />
+      <workItem from="1501379281666" duration="31258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30740000" />
+    <option name="totallyTimeSpent" value="31258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -739,14 +741,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/StudentRegistration.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -846,6 +840,14 @@
             <element signature="e#92147#92748#2" expanded="true" />
             <element signature="e#92764#93365#2" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
