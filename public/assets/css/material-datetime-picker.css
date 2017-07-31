@@ -29,7 +29,7 @@
   transition: 200ms ease-in-out opacity, 200ms ease-in-out top; }
   .c-datepicker--open {
     opacity: 1;
-    top: 65%; }
+    top: 55%; }
 
 .c-datepicker__header {
   position: relative; }
