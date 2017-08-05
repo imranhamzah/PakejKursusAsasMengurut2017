@@ -39,7 +39,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => 'http://easytravelapp17.com',//env('APP_URL', 'http://localhost'),
 
     /*
     |--------------------------------------------------------------------------

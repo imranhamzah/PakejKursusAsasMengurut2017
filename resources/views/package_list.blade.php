@@ -28,6 +28,15 @@
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
     <div class="android-content mdl-layout__content" style="background-color: #fafafa;">
         <div class="android-more-section">
+            <div style="text-align:right; padding-right:15px;">
+                <button type="button" class="mdl-chip">
+                    <span class="mdl-chip__text" style="cursor: pointer;">
+                        <a href="/massage/package-list" style="text-decoration: none; color:black; font-weight:normal;">
+                            Perkhidmatan Mengurut
+                        </a>
+                    </span>
+                </button>
+            </div>
             <div class="android-section-title mdl-typography--display-1-color-contrast">Senarai Pakej Kursus Asas Mengurut 2017</div>
             <div class="android-card-container mdl-grid">
                 <div class="mdl-cell mdl-cell--3-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp">

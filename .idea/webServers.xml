@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4a186aed-f937-4d7e-8486-8621cf8a2436" name="DayangkuSriRichLegacy" url="http://13.59.9.124">
-        <fileTransfer host="13.59.9.124" port="22" privateKey="C:\Users\Imran\Downloads\dayangkusri_rich_legacy_key_pair.pem" rootFolder="/var/www/html/dayangkusri_rich_legacy" accessType="SFTP" keyPair="true">
+      <webServer id="4a186aed-f937-4d7e-8486-8621cf8a2436" name="DayangkuSriRichLegacy" url="http://18.220.60.187">
+        <fileTransfer host="18.220.60.187" port="22" privateKey="C:\Users\Imran\Downloads\dayangkusri_rich_legacy_key_pair.pem" rootFolder="/var/www/html/dayangku_sri_rich_legacy" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

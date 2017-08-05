@@ -17,3 +17,5 @@ Route::get('/student-registration','StudentRegistration@index');
 Route::get('/student-registration/success','StudentRegistration@success');
 Route::post('/student-registration/process','StudentRegistration@process');
 Route::get('/package-list','PackageListController@index');
+Route::get('/massage/package-list','MassageController@package_list');
+Route::get('/freelancer','WebAppFreeLancerController@index');
