@@ -41,8 +41,8 @@
                     <a class="mdl-navigation__link mdl-typography--text-uppercase" href="">My Skills</a>
                 </nav>
             </div>
-            <span class="android-mobile-title mdl-layout-title">
-            <img class="android-logo-image" src="images/android-logo.png">
+            <span class="android-mobile-title mdl-layout-title" style="text-align:center;">
+                <a href="http://wasap.my/60183954840" style="color:grey; text-decoration:none;">Whatsapp <br/>018 395 4840</a>
           </span>
         </div>
     </div>
