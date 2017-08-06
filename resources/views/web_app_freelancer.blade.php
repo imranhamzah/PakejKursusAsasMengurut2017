@@ -173,9 +173,9 @@
         <footer class="android-footer mdl-mega-footer">
             <div class="mdl-mega-footer--top-section">
                 <div class="mdl-mega-footer--left-section">
-                    <button onclick="location.href='https://web.facebook.com/WebAppSystemMaker/'" class="mdl-mega-footer--social-btn">Fb</button>
+                    <button style="cursor:pointer;" onclick="location.href='https://web.facebook.com/WebAppSystemMaker/'" class="mdl-mega-footer--social-btn"><img src="{!! asset('assets/images/freelancer/fb-btn.jpg') !!} "/></button>
                     &nbsp;
-                    <button onclick="location.href='https://stackoverflow.com/users/4310083'" class="mdl-mega-footer--social-btn">SO</button>
+                    <button style="cursor:pointer;" onclick="location.href='https://stackoverflow.com/users/4310083'" class="mdl-mega-footer--social-btn"><img src="{!! asset('assets/images/freelancer/so-btn.jpg') !!}" /></button>
                 </div>
             </div>
 
